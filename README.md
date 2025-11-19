@@ -2,10 +2,9 @@
 
 # Oi, eu sou o Gabi 🥑
 
-Estudante de Análise e Desenvolvimento de Sistemas.
-Atualmente focado em Engenharia de Dados.
+Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS)
 
-## Backend Java | Data Engineering | Tech Enthusiast
+## Focado em Engenharia de Dados
 
 ### Ferramentas de Desenvolvimento
 <div style="display: inline_block">
