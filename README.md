@@ -46,7 +46,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 ### 📊 Linguagens Mais Usadas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=nord&hide_border=true" />
 </div>
 
 </td>
