@@ -21,7 +21,7 @@ Atualmente focado em Engenharia de Dados.
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Conquistas & Infos
+### 🍓 Conquistas & Infos
 
 - 🎓 **Faculdade:** Análise e Desenv. de Sistemas
 - ☕ **Foco:** Java & Python
