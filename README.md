@@ -37,11 +37,12 @@
 
 </td>
 
-<td width="50%" valign="top" align="right">
+<td width="50%" valign="top">
 
-### 🫐  Linguagens 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true" />
+  <div align="right">
+    <h3>🫐 Linguagens</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true" />
+  </div>
 
 </td>
 </tr>
