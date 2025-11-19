@@ -20,6 +20,16 @@ Estudante de Análise e Desenvolvimento de Sistemas
 <tr>
 <td width="50%" valign="top">
 
+### 📊 Linguagens Mais Usadas
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=dracula&hide_border=true" />
+</div>
+
+</td>
+</tr>
+</table>
+
 ### 🏆 Conquistas & Infos
 
 - 🎓 **Faculdade:** Análise e Desenv. de Sistemas
