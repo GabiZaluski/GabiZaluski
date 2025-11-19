@@ -46,7 +46,7 @@ Atualmente focada em aprender Java, Python e Engenharia de Dados.
 ### 📊 Linguagens Mais Usadas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=dracula&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=default&hide_border=true" />
 </div>
 
 </td>
