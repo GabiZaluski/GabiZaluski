@@ -13,11 +13,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 </div>
 
 <br/>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabiZaluski&theme=radical&hide_border=true" />
-</div>
-
-<br/>
 
 </div>
 
