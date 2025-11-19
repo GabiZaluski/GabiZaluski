@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou Gabi 👩‍💻
+# Oi, Eu sou o Gabi 
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 Atualmente focado em aprender Java, Python e Engenharia de Dados.
