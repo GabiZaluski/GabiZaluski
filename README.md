@@ -5,7 +5,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas
         Futuro Engenheiro de Dados
 
-## Backend Java | Data Engineering | Tech Enthusiast
+## Backend | Engenharia de Dados 
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
