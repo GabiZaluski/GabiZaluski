@@ -20,7 +20,7 @@
 ### 🥑 Informações
 
 * **Faculdade:** Análise e Desenv. de Sistemas
-* **Foco:** Java & Python
+* **Linguagens Principais:** Java & SQL
 * **Objetivo:** Engenheira de Dados
 
 
