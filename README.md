@@ -37,11 +37,11 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="right">
 
 ### 🫐  Linguagens 
 
-<div align="right">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
