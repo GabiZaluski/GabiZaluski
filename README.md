@@ -7,7 +7,6 @@
 
 <h1 align="center">Focado em Engenharia de Dados </h1>
 
-### 🛠️ Ferramentas de Desenvolvimento
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" alt="Python"/>
