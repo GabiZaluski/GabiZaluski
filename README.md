@@ -41,9 +41,7 @@
 
 ### 🫐  Linguagens 
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true" />
-</div>
 
 </td>
 </tr>
