@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou Gabi 🥑
+# Oi, eu sou o Gabi 🥑
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 Atualmente focado em Engenharia de Dados.
