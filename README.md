@@ -5,7 +5,7 @@
   Atualmente focada em <b>Engenharia de Dados</b> e aprofundando conhecimentos em Java e Python.
 </p>
 
-<h1 align="center">Backend | Data Engineering | Tech Enthusiast</h1>
+<h1 align="center">Focado em Engenharia de Dados </h1>
 
 ### 🛠️ Ferramentas de Desenvolvimento
 
