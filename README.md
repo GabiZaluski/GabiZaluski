@@ -43,7 +43,7 @@ Atualmente focado em Engenharia de Dados.
 
 <td width="50%" valign="top">
 
-### 📊 Linguagens Mais Usadas
+### 📊 Linguagens 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true" />
