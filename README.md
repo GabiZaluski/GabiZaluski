@@ -1,8 +1,6 @@
 <div align="center">
 
-### Oi, eu sou o Gabi 🥑
-
-Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS)
+### Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS)
 
 ## Focado em Engenharia de Dados
 
