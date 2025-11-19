@@ -1,9 +1,9 @@
 <div align="center">
 
-# Oi, eu sou Gabi 👩‍💻
+# Oi, eu sou Gabi 🥑
 
 Estudante de Análise e Desenvolvimento de Sistemas.
-Atualmente focada em aprender Java, Python e Engenharia de Dados.
+Atualmente focado em Engenharia de Dados.
 
 ## Backend Java | Data Engineering | Tech Enthusiast
 
