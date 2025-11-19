@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, Eu sou o Gabi 
+# Oi, eu sou o Gabi 
 
 Estudante de Análise e Desenvolvimento de Sistemas
         Futuro Engenheiro de Dados
