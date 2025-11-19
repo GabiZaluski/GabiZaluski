@@ -19,9 +19,9 @@
 
 ### 🥑 Informações
 
-**Faculdade:** Análise e Desenv. de Sistemas
-**Foco:** Java & Python
-**Objetivo:** Engenheira de Dados
+* **Faculdade:** Análise e Desenv. de Sistemas
+* **Foco:** Java & Python
+* **Objetivo:** Engenheira de Dados
 
 
 <br/>
