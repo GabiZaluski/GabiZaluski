@@ -1,15 +1,18 @@
 <div align="center">
 
-# Oi, eu sou o Gabi 
+# Olá! Eu sou Gabi 👩‍💻
 
-Estudante de Análise e Desenvolvimento de Sistemas
-        Futuro Engenheiro de Dados
+Estudante de Análise e Desenvolvimento de Sistemas.
+Atualmente focada em aprender Java, Python e Engenharia de Dados.
 
-## Engenharia de Dados 
+## Backend Java | Data Engineering | Tech Enthusiast
 
+### Ferramentas de Desenvolvimento
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br/>
@@ -19,16 +22,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 📊 Linguagens Mais Usadas
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
-</td>
-</tr>
-</table>
 
 ### 🏆 Conquistas & Infos
 
@@ -51,6 +44,12 @@ Estudante de Análise e Desenvolvimento de Sistemas
 </td>
 
 <td width="50%" valign="top">
+
+### 📊 Linguagens Mais Usadas
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=dracula&hide_border=true" />
+</div>
 
 </td>
 </tr>
