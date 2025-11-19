@@ -43,12 +43,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 <td width="50%" valign="top">
 
-### 📊 Linguagens Mais Usadas
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 </td>
 </tr>
 </table>
