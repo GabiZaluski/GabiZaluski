@@ -17,12 +17,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🥑 Conquistas & Infos
+### 🥑 Informações
 
-- 🎓 **Faculdade:** Análise e Desenv. de Sistemas
-- ☕ **Foco:** Java & Python
-- 🚀 **Objetivo:** Engenheira de Dados
-- 🌱 **Estudando:** Git, GitHub e Estruturas de Dados
+**Faculdade:** Análise e Desenv. de Sistemas
+**Foco:** Java & Python
+**Objetivo:** Engenheira de Dados
+
 
 <br/>
 
