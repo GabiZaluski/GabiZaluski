@@ -1,6 +1,6 @@
 <div align="center">
 
-### Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS)
+### Análise e Desenvolvimento de Sistemas (UNISINOS)
 
 ## Focado em Engenharia de Dados
 
