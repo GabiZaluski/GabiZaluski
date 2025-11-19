@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou Gabi 👩‍💻
+# Oi, eu sou Gabi 👩‍💻
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 Atualmente focada em aprender Java, Python e Engenharia de Dados.
@@ -11,8 +11,6 @@ Atualmente focada em aprender Java, Python e Engenharia de Dados.
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br/>
