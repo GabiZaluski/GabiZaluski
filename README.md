@@ -1,11 +1,10 @@
 <h1 align="center">Bem-Vindo 🥑 </h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS. <br>
-  Atualmente focado em <b>Engenharia de Dados</b> e aprofundando conhecimentos em Java e Python.
+  Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS) <br>
 </p>
 
-<h1 align="center">Focado em Engenharia de Dados </h1>
+<h2 align="center">Focado em Engenharia de Dados </h2>
 
 
 <p align="center">
