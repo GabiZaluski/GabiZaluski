@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS. <br>
-  Atualmente focada em <b>Engenharia de Dados</b> e aprofundando conhecimentos em Java e Python.
+  Atualmente focado em <b>Engenharia de Dados</b> e aprofundando conhecimentos em Java e Python.
 </p>
 
 <h1 align="center">Focado em Engenharia de Dados </h1>
