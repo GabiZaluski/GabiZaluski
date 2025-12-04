@@ -16,7 +16,9 @@
 
 <br>
 
-<img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabiZaluski&theme=buefy&hide_border=true" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabiZaluski&theme=flat&no-frame=true&margin-w=15" />
+</div>
 
 ### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/619a5767-e403-4ecf-acae-8a89d6211064" /> Informações
 
