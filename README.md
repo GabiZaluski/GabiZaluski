@@ -9,9 +9,10 @@
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="42" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" alt="Java"/>
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/9cb3dbdc-859c-4b94-9d92-9df870b2b0ae" />
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/aabb7b0c-5847-4fb6-b320-2ec36cdea617" />
+<img width="49" height="49" alt="image" src="https://github.com/user-attachments/assets/be64639f-31ed-4394-a688-9fc813a79621" />
+
 </p>
 
 <br>
