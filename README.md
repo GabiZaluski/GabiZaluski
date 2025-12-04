@@ -1,4 +1,5 @@
-<h1 align="center">Bem-Vindo 🥑 </h1>
+<h1 align="center">Bem-Vindo <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/37a6fa9e-c1ab-486b-9323-dd1eef8f9e7d" />
+ </h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS) <br>
