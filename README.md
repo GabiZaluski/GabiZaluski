@@ -1,4 +1,4 @@
-<h1 align="center">Bem-Vindo <img width="42" height="42" alt="image" src="https://github.com/user-attachments/assets/0af783b2-122d-47dd-99a5-a94f118db79b" />
+<h1 align="center">Bem-Vindo <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/37a6fa9e-c1ab-486b-9323-dd1eef8f9e7d" />
 
  </h1>
 
