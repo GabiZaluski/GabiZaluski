@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" alt="Gabi's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiZaluski&layout=compact&theme=buefy&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GabiZaluski&show_icons=true&theme=buefy&hide_border=true" />
 
 ### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/619a5767-e403-4ecf-acae-8a89d6211064" /> Informações
 
