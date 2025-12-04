@@ -25,7 +25,7 @@
 <br/>
 
 <div align="left">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-zaluski-carvalho-da-silva-4b9847320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
