@@ -20,7 +20,7 @@
 
 **Faculdade:** Pratico principalmente **Java** no curso
 
-**Dados** Aprendo Python & SQL em cursos, livros e **envolvimento ativo**
+**Dados:** Aprendo Python & SQL em cursos, livros e **envolvimento ativo**
 
 <br/>
 
