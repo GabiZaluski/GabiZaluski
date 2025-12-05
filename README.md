@@ -24,7 +24,7 @@
 ### <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/619a5767-e403-4ecf-acae-8a89d6211064" /> Informações
 **Faculdade:**  Pratico principalmente **Java** no curso
 
-**Dados:** Aprendo Python & SQL em cursos, livros e **envolvimento ativo**
+**Dados:** Aprendo **Python** & **SQL** em cursos, livros e envolvimento ativo
 
 <br/>
 
