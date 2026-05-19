@@ -27,7 +27,7 @@ Atualmente participo de um projeto de Residência em TIC. Eu e meu grupo estamos
 Meu plano é me especializar em Java. Atualmente aprendo através da universidade e através de cursos e livros por fora.
 
 ### 🍓 Universidade
-Sou estudadnte de Análise e Desenvolvimento de Sistemas na Unisinos, estou no segundo de três anos de curso.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, estou no segundo de três anos de curso.
 
 <br/>
 
