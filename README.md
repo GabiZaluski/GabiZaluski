@@ -18,7 +18,7 @@
   <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-### <img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/80442fce-8637-4cd1-b46f-6ab305bc5bee" /> Residência
+### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/80442fce-8637-4cd1-b46f-6ab305bc5bee" /> Residência
 Atualmente participo do um projeto de **Residência em TIC 55**. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma cliente em específico. Estamos usando React (Front), Django (Back) e Postgre com Supabase (Banco de Dados).
 
 
