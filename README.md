@@ -20,9 +20,9 @@
 </a>
 
 ### 🥑 Informações
-**Faculdade:**  Pratico principalmente **Java** no curso
+**Residência:**  Atualmente participo de um projeto de Residência em TIC. Eu e meu grupo estamos desenvolvendo um aplicativo e um site de gestão para uma cliente em específico. Estamos usando React (Front), Django (Back) e Postgre com Supabase para o banco de dados.
 
-**Autodidatismo:** Aprendo **Python** & **SQL** em cursos, livros e envolvimento ativo
+**Foco:** Meu plano é me especializar em Java. Atualmente aprendo através da universidade e através de cursos e livros por fora.
 
 <br/>
 
