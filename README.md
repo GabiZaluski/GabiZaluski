@@ -1,4 +1,4 @@
-<h1 align="center">Bem-Vindo <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/37a6fa9e-c1ab-486b-9323-dd1eef8f9e7d" />
+<h1 align="center">Bem-Vindo <img width="49" height="49" alt="image" src="https://github.com/user-attachments/assets/be64639f-31ed-4394-a688-9fc813a79621" />
 
  </h1>
 
@@ -10,9 +10,8 @@
 
 <p align="center">
 <img width="49" height="49" alt="image" src="https://github.com/user-attachments/assets/be64639f-31ed-4394-a688-9fc813a79621"
-<img width="100" height="100" alt="icons8-java-100" src="https://github.com/user-attachments/assets/53482a95-2d4e-4038-b342-c3c78e583093" />
 
-/>
+
 
 </p>
 
