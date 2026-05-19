@@ -8,11 +8,6 @@
 
 
 
-<p align="center">
-<img width="49" height="49" alt="image" src="https://github.com/user-attachments/assets/be64639f-31ed-4394-a688-9fc813a79621"
-
-
-
 </p>
 
 <br>
