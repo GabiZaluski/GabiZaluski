@@ -26,7 +26,7 @@ Atualmente participo do um projeto de **Residência em TIC 55**. Eu e meu grupo 
 Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou no segundo de três anos de curso.
 
 ### 🫐 Objetivo
-Meu plano é me especializar em Java. Atualmente aprendo através da universidade e através de cursos e livros por fora.
+Meu plano é me especializar em **Java**. Atualmente aprendo através da universidade e através de cursos e livros por fora.
 
 <br/>
 
