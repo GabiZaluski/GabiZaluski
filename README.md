@@ -6,7 +6,6 @@
   Estudante de Análise e Desenvolvimento de Sistemas (UNISINOS) <br>
 </p>
 
-<h2 align="center">Focado em Engenharia de Dados </h2>
 
 
 <p align="center">
