@@ -18,14 +18,14 @@
   <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/80442fce-8637-4cd1-b46f-6ab305bc5bee" /> Residência
+###  Residência <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/006600b1-646f-428f-8b45-54861af33f53" />
 Atualmente participo do um projeto de **Residência em TIC 55**. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma cliente em específico. Estamos usando React (Front), Django (Back) e Postgre com Supabase (Banco de Dados).
 
 
 ### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/622d6c76-f994-42ab-80e4-d4fbaed161e6" /> Universidade
 Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou no segundo de três anos de curso.
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/006600b1-646f-428f-8b45-54861af33f53" /> Objetivo
+### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/80442fce-8637-4cd1-b46f-6ab305bc5bee" /> Objetivo
 Meu plano é me especializar em **Java**. Atualmente aprendo através da universidade e através de cursos e livros por fora.
 
 <br/>
