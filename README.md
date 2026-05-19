@@ -1,4 +1,5 @@
-<h1 align="center">Bem-Vindo ☕︎
+<h1 align="center">Bem-Vindo <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/90676eb6-59e2-4bce-9c8d-3ac38950601f" />
+
 
  </h1>
 
