@@ -23,7 +23,7 @@ Atualmente participo do um projeto de Residência em TIC 55. Eu e meu grupo esta
 
 
 ### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/f23efb37-514d-4bb9-aa6d-c32facec460f" /> Universidade
-Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou no segundo de três anos de curso.
+Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou no segundo dos três anos de curso.
 
 ### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/622d6c76-f994-42ab-80e4-d4fbaed161e6" /> Objetivo
 Meu plano é me especializar em **Java**. Atualmente aprendo através da universidade e através de cursos e livros por fora.
