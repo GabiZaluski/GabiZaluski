@@ -22,7 +22,7 @@
 Atualmente participo do um projeto de **Residência em TIC 55**. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma cliente em específico. Estamos usando React (Front), Django (Back) e Postgre com Supabase (Banco de Dados).
 
 
-### <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f23efb37-514d-4bb9-aa6d-c32facec460f" /> Universidade
+### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/f23efb37-514d-4bb9-aa6d-c32facec460f" /> Universidade
 Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou no segundo de três anos de curso.
 
 ### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/622d6c76-f994-42ab-80e4-d4fbaed161e6" /> Universidade
