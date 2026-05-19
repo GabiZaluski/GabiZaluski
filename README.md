@@ -29,7 +29,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou 
 Meu plano é me especializar em **Java**. Atualmente aprendo através da universidade e através de cursos e livros por fora.
 
 ### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/80442fce-8637-4cd1-b46f-6ab305bc5bee" /> Pessoal
-Tenho 27 anos e estou transicionando para a TI; Venho da área da Saúde, atuava em um hospital 100% SUS como Psicólogo Hospitalar. Uma das coisas que mais me interessa na TI é a capacidade de o profissional entrar em estado de Flow, através de Deep Work.
+Tenho 27 anos e estou transicionando para a TI; Venho da área da Saúde, atuava em um hospital 100% SUS como **Psicólogo Hospitalar**. Uma das coisas que mais me interessa na TI é a capacidade de o profissional entrar em estado de Flow, através de Deep Work.
 
 <br/>
 
