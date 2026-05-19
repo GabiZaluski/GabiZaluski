@@ -19,7 +19,7 @@
   <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-### 🥑 /> Informações
+### 🥑 Informações
 **Faculdade:**  Pratico principalmente **Java** no curso
 
 **Autodidatismo:** Aprendo **Python** & **SQL** em cursos, livros e envolvimento ativo
