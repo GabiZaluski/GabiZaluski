@@ -19,7 +19,7 @@
 </a>
 
 ### 🥑 Residência
-Atualmente participo de um projeto de Residência em TIC. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma cliente em específico. Estamos usando React (Front), Django (Back) e Postgre com Supabase (Banco de Dados).
+Atualmente participo do um projeto de **Residência em TIC 55**. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma cliente em específico. Estamos usando React (Front), Django (Back) e Postgre com Supabase (Banco de Dados).
 
 
 ### 🍓 Universidade
