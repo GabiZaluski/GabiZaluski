@@ -11,9 +11,8 @@ _"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attenti
 
 ---
 
-### 🧠 De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java
+## 🧠 De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java
 
-Uma das coisas que mais me interessa na TI é a capacidade do profissional de entrar em estado de *Flow*, através de *Deep Work*, para resolver problemas e entregar código de qualidade.
 
 ## 📍 O que faço hoje
 *    **Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
