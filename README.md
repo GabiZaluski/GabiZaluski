@@ -12,14 +12,13 @@ _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software_
   * Stack do projeto: React, Django (Python), PostgreSQL
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
-  ### 🌱 Próximos Passos
+### 🌱 Próximos Passos
   * Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes
 
 ### 🥑 Principais Competências
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" height="28" alt="java logo" /> ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ### 📬 Contato
