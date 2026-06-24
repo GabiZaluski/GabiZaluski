@@ -11,17 +11,15 @@ _"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attenti
 
 ---
 
-## 🧠 De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java
+### 🧠 De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java
 
 
-## 📍 O que faço hoje
+### 📍 O que faço hoje
 *    **Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
 *    **Formação:** Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano de 3).
 
-  ## 🌱 Próximos Passos & Especialização
+  ### 🌱 Próximos Passos & Especialização
   Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes.
-
----
 
 ### 🥑 Principais Competências & Stack
 
