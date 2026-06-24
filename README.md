@@ -3,7 +3,7 @@
 </p>
 
 
-# Gabriel Zaluski ☕♨
+# Gabriel Zaluski ☕
 
 **Desenvolvedor Junior | Java • Spring Boot | Dev Residente (TIC)**
 
