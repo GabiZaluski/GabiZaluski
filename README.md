@@ -8,8 +8,8 @@
 _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java_
 
 ### 📍 O que faço hoje
-*    **Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
-*    **Formação:** Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
+**Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
+**Formação:** Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
   ### 🌱 Próximos Passos & Especialização
   Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes.
