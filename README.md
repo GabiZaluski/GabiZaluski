@@ -3,13 +3,9 @@
 </p>
 
 
-# Gabriel Zaluski ☕
-
-**Desenvolvedor Junior | Java • Spring Boot | Dev Residente (TIC)**
+# Desenvolvedor Junior | Java • Spring Boot | Dev Residente (TIC)
 
 _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java_
-
----
 
 ### 📍 O que faço hoje
 *    **Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
