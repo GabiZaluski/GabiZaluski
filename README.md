@@ -13,7 +13,7 @@ _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java_
   * Formação:Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
   ### 🌱 Próximos Passos & Especialização
-  * Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes.
+  * Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes
 
 ### 🥑 Principais Competências & Stack
 
