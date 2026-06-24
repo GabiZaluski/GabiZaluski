@@ -7,16 +7,13 @@
 
 **Desenvolvedor Junior | Java • Spring Boot | Dev Residente (TIC)**
 
-_"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attention and the Focused Life._
+_De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java_
 
 ---
 
-### 🧠 De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java
-
-
 ### 📍 O que faço hoje
 *    **Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
-*    **Formação:** Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano de 3).
+*    **Formação:** Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
   ### 🌱 Próximos Passos & Especialização
   Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes.
@@ -39,3 +36,5 @@ _"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attenti
 ### 📬 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaluski)
+
+_"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attention and the Focused Life"._
