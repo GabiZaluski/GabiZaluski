@@ -8,7 +8,7 @@
 _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software_
 
 ### 📍 Hoje
-  * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais
+  * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front & Back) para stakeholders reais
   * Stack do projeto: React, Django (Python), PostgreSQL
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
