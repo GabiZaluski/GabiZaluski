@@ -22,6 +22,9 @@ _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java_
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
+### 📬 Como me encontrar
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaluski)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabizaluski@gmail.com)
 
 _"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attention and the Focused Life"._
