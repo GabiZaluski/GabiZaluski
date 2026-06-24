@@ -12,7 +12,7 @@ _De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software_
   * Stack do projeto: React, Django (Python), PostgreSQL
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
-### 🌱 Próximos Passos
+### ☕ Próximos Passos
   * Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes
 
 ### 🥑 Principais Competências
