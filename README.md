@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<a href="www.linkedin.com/in/gabriel-zaluski-carvalho-da-silva-4b9847320" target="_blank">
+<a href="www.linkedin.com/in/gabriel-zaluski" target="_blank">
   <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
