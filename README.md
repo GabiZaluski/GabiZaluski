@@ -11,13 +11,6 @@
 
 
 
-</p>
-
-<br>
-<a href="www.linkedin.com/in/gabriel-zaluski" target="_blank">
-  <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
 ### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/006600b1-646f-428f-8b45-54861af33f53" /> Residência em TIC
 Atualmente participo do um projeto de Residência em TIC 55 – Apoio à Recuperação do Rio Grande do Sul. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma stakeholder em específico. Estamos usando **React** (Front), **Django** (Back) e **Postgre com Supabase** (Banco de Dados).
 
