@@ -1,30 +1,43 @@
-<h1 align="center">Bem-Vindo ☕♨
-
-
-
-
-
- </h1>
 
 <p align="center">
 </p>
 
 
+# Gbriel Zaluski ☕♨
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/006600b1-646f-428f-8b45-54861af33f53" /> Residência em TIC
-Atualmente participo do um projeto de Residência em TIC 55 – Apoio à Recuperação do Rio Grande do Sul. Eu e meu grupo estamos desenvolvendo um aplicativo e um site para uma stakeholder em específico. Estamos usando **React** (Front), **Django** (Back) e **Postgre com Supabase** (Banco de Dados).
+**Desenvolvedor Junior | Java • Spring Boot | Dev Residente (TIC)**
 
+_"Viverei uma vida focada, porque é o melhor tipo que existe" — Rapt: Attention and the Focused Life._
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/f23efb37-514d-4bb9-aa6d-c32facec460f" /> Universidade
-Graduando em Análise e Desenvolvimento de Sistemas na **UNISINOS** , estou no segundo dos três anos de curso.
+---
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/622d6c76-f994-42ab-80e4-d4fbaed161e6" /> Objetivo
-Meu plano é me especializar em **Java**. Atualmente aprendo através da Universidade e através de cursos e livros por fora.
+### 👨‍💻 Sobre Mim
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/80442fce-8637-4cd1-b46f-6ab305bc5bee" /> Pessoal
-Tenho 27 anos e estou transicionando para a TI; Venho da área da Saúde, atuava em um hospital 100% SUS como **Psicólogo Hospitalar**. Uma das coisas que mais me interessa na TI é a capacidade de o profissional entrar em estado de **Flow**, através de **Deep Work**.
+🧠 De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software com foco em Java. 
+Uma das coisas que mais me interessa na TI é a capacidade do profissional de entrar em estado de *Flow*, através de *Deep Work*, para resolver problemas e entregar código de qualidade.
 
-<br/>
+**📍 O que faço hoje:**
+*   🔭 **Residência em TIC 55 (Apoio à Recuperação do RS):** Desenvolvendo ativamente uma aplicação completa (Front-end e Back-end) para stakeholders reais.
+*   📚 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano de 3).
+*   🌱 **Próximos Passos & Especialização:** Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes.
 
+---
 
-</div>
+### 💻 Principais Competências & Stack
+
+**Foco Principal:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Stack do Projeto de Residência atual:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📬 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaluski)
