@@ -5,7 +5,7 @@
 
 ## Desenvolvedor Júnior | Java • Spring Boot | Dev Residente (TIC)
 
-_De Psicólogo Hospitalar (SUS) a Desenvolvedor de Software_
+_De Psicólogo Hospitalar a Desenvolvedor de Software_
 
 ### 📍 Hoje
   * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front & Back) para stakeholders reais
