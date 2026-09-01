@@ -5,13 +5,12 @@
 
 ## Desenvolvedor Júnior | Backend | Dev Residente (TIC)
 
-_De Psicólogo Hospitalar a Desenvolvedor de Software_
 
 ### 🥑 Hoje
   * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front & Back) para stakeholders reais
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
-### Backend (Prioridade)
+### Backend (prioridade)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Front & Mobile 
@@ -20,8 +19,8 @@ _De Psicólogo Hospitalar a Desenvolvedor de Software_
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### Ferramentas & Metodologias
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/scrum-%23316192.svg?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 
