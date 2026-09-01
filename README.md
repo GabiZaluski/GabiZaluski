@@ -7,7 +7,7 @@
 
 
 ### 🥑 Hoje
-  * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front & Back) para stakeholders reais
+  * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front, Back & Mobile) para stakeholders reais
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
 ### Backend (prioridade)
