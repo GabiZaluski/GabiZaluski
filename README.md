@@ -7,7 +7,7 @@
 
 _De Psicólogo Hospitalar a Desenvolvedor de Software_
 
-### 📍 Hoje
+### 🥑 Hoje
   * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front & Back) para stakeholders reais
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
 
