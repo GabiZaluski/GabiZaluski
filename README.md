@@ -3,7 +3,7 @@
 </p>
 
 
-## Desenvolvedor Júnior | Java • Spring Boot | Dev Residente (TIC)
+## Desenvolvedor Júnior | Backend | Dev Residente (TIC)
 
 _De Psicólogo Hospitalar a Desenvolvedor de Software_
 
@@ -11,9 +11,6 @@ _De Psicólogo Hospitalar a Desenvolvedor de Software_
   * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front & Back) para stakeholders reais
   * Stack do projeto: React, Django (Python), PostgreSQL
   * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
-
-### ☕ Próximos Passos
-  * Foco intensivo em **Java** através da grade curricular, cursos, livros e projetos independentes
 
 ### 🥑 Principais Competências
 
