@@ -32,7 +32,7 @@
 
 ---
 
-🎓 Education & Certifications 
+### 🎓 Education & Certifications 
 
 • Degree: Systems Analysis and Development Undergraduate - UNISINOS (2/3) 
 
