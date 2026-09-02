@@ -6,11 +6,14 @@
 ## Desenvolvedor Júnior | Backend | Dev Residente (TIC)
 
 
-### 🥑 Hoje
-  * Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front, Back & Mobile) para stakeholders reais
-  * Formação: Graduando em Análise e Desenvolvimento de Sistemas na UNISINOS (2º ano)
+### Currently
 
-### Backend (prioridade)
+🇺🇸 Tech Residency 55 (RS Recovery Support): Actively developing a real-world product (Front, Back & Mobile) for actual stakeholders
+
+🇧🇷 Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front, Back & Mobile) para stakeholders reais 
+
+
+### Backend (Priority)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
