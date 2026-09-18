@@ -38,7 +38,9 @@
 
 • EF SET English Certificate (08/2026): cert.efset.org/pJ57JF
 
-• Res55: https://valida.ae/f2c7d56fd9b79a42d9fefaa74ffb77ab1381987e7f387b5dc
+•  1st Part of Residency (180 hours): https://valida.ae/f2c7d56fd9b79a42d9fefaa74ffb77ab1381987e7f387b5dc
+
+• 2nd Part of Residency (480 practical hours): Official Certificate to be issued shortly
 
 ---
 
