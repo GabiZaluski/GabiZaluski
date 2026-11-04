@@ -38,7 +38,8 @@
 
 •  1st Part of Residency (180 hours): https://valida.ae/f2c7d56fd9b79a42d9fefaa74ffb77ab1381987e7f387b5dc
 
-• 2nd Part of Residency (480 practical hours): Official Certificate to be issued shortly
+• 2nd Part of Residency (480 practical hours): https://drive.google.com/file/d/1KVRxBoRejInrd-ORVh5hWM63uafvnI_v/view?usp=sharing
+ 
 
 ---
 
