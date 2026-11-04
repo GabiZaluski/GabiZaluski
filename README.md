@@ -3,14 +3,14 @@
 </p>
 
 
-## Desenvolvedor Júnior | Backend | Dev Residente (TIC)
+## Residência em IA | Estágio TRF | Co-criador da Kortte 
 
 
 ### Currently
 
-🇺🇸 Tech Residency 55 (RS Recovery Support): Actively developing a real-world product (Front, Back & Mobile) for actual stakeholders
+🇺🇸 I am an undergraduate student in Systems Analysis and Development at UNISINOS, with experience as an ICT Resident Developer (Brisa/MCTI), where I worked on the end-to-end development (back-end, front-end, and mobile) of a real-world product. Currently, I am part of the Artificial Intelligence Residency program at Instituto Eldorado, work as an IT intern at the Regional Federal Court (TRF), and act as a co-creator and developer at Kortte, a startup focused on technological solutions for the aesthetics industry. I have a proficient level of English (C1-C2 / CEFR).
 
-🇧🇷 Residência em TIC 55 (Apoio à Recuperação do RS): Desenvolvendo ativamente um produto real (Front, Back & Mobile) para stakeholders reais 
+🇧🇷 Sou graduando de Análise e Desenvolvimento de Sistemas (UNISINOS) e possuo experiência como desenvolvedor residente em TIC (Brisa/MCTI), onde atuei no desenvolvimento completo (back, front e mobile) de um produto real. Atualmente, integro o programa de Residência em Inteligência Artificial pelo Instituto Eldorado, também sou estagiário de TI no Tribunal Regional Federal (TRF) e atuo como co-criador e desenvolvedor  na Kortte, uma startup focada em soluções tecnológicas para o ramo de estética. Possuo inglês proficiente, nível C1-C2 (CEFR). 
 
 ---
 ### Backend (Priority)
